@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "villamorrd@students.nu-moa.edu.ph",
+                "Name": "villamorrd"
+            }
+        ],
+        "Category": "",
+        "Description": "Unicorn",
+        "EnabledByDefault": true,
+        "Id": "unicorn",
+        "License": "GPLv3+",
+        "Name": "Unicorn",
+        "Version": "1.0.0",
+        "Website": "https://rhinolinux.org"
+    },
+    "X-Plasma-API": "5.0"
+}

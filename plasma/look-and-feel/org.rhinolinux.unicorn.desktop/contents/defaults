@@ -1,0 +1,27 @@
+[kdeglobals][KDE]
+widgetStyle=Breeze
+
+[kdeglobals][General]
+ColorScheme=Unicorn
+
+[kdeglobals][Icons]
+Theme=Papirus-Dark
+
+[plasmarc][Theme]
+name=unicorn
+
+[plasmashellrc][PlasmaViews]
+panelOpacity=1
+
+[Wallpaper]
+Image=Rolling Rhino
+
+[kcminputrc][Mouse]
+cursorTheme=breeze_cursors
+
+[kwinrc][org.kde.kdecoration2]
+library=org.kde.breeze
+theme=Breeze
+
+[KSplash]
+Theme=org.kde.Breeze

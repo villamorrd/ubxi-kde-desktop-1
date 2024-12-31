@@ -1,0 +1,12 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "ajstrong.dev@gmail.com",
+                "Name": "Rhino Linux Team"
+            }
+        ],
+        "Id": "Rolling Rhino",
+        "Name": "Rolling Rhino"
+    }
+}

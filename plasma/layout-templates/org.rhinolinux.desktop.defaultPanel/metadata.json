@@ -1,0 +1,25 @@
+{
+    "KPackageStructure": "Plasma/LayoutTemplate",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "villamorrd@students.nu-moa.edu.ph",
+                "Name": "villamorrd"
+            }
+        ],
+        "Category": "",
+        "EnabledByDefault": true,
+        "Id": "org.rhinolinux.desktop.defaultPanel",
+        "License": "GPLv3+",
+        "Name": "Unicorn Default Panel",
+        "ServiceTypes": [
+            "Plasma/LayoutTemplate"
+        ],
+        "Version": "1.0",
+        "Website": "https://rhinolinux.org/"
+    },
+    "X-Plasma-ContainmentCategories": [
+        "panel"
+    ],
+    "X-Plasma-Shell": "plasmashell"
+}

@@ -1,0 +1,17 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "villamorrd@students.nu-moa.edu.ph",
+                "Name": "villamorrd"
+            }
+        ],
+        "Category": "",
+        "Description": "Unicorn Plasma",
+        "Id": "org.rhinolinux.unicorn.desktop",
+        "License": "GPLv3+",
+        "Name": "Unicorn",
+        "Website": "https://rhinolinux.org"
+    }
+}
