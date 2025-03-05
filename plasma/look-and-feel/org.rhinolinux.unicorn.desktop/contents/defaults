@@ -13,6 +13,9 @@ name=unicorn
 [plasmashellrc][PlasmaViews]
 panelOpacity=1
 
+[kglobalshortcutsrc][services][org.kde.krunner.desktop]
+_launch=Alt+Space\tAlt+F2\tSearch\tMeta
+
 [Wallpaper]
 Image=Rolling Rhino
 
