@@ -102,5 +102,5 @@ dockPanel.hiding = "dodgewindows"
 dockPanel.lengthMode = "fit"
 var taskManager = dockPanel.addWidget("org.kde.plasma.icontasks")
 taskManager.currentConfigGroup = ["General"]
-taskManager.writeConfig("launchers", "applications:krunner.desktop,applications:systemsettings.desktop,applications:org.kde.dolphin.desktop,applications:firefox.desktop")
+taskManager.writeConfig("launchers", "applications:krunner.desktop,applications:kwin-overview.desktop,applications:systemsettings.desktop,applications:org.kde.dolphin.desktop,applications:firefox.desktop")
 taskmanager.reloadConfig();
