@@ -100,4 +100,6 @@ dockPanel.location = "left"
 dockPanel.height = 40
 dockPanel.hiding = "dodgewindows"
 dockPanel.lengthMode = "fit"
-dockPanel.addWidget("org.kde.plasma.icontasks")
+var taskManager = dockPanel.addWidget("org.kde.plasma.icontasks")
+taskManager.currentConfigGroup = ["General"]
+taskManager.writeConfig("launchers", "applications:krunner.desktop,applications:systemsettings.desktop,applications:org.kde.dolphin.desktop,applications:firefox.desktop")
